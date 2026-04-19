@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="40" fill="#1f2937"/>
+  <rect x="42" y="36" width="172" height="184" rx="14" fill="#f8fafc"/>
+  <rect x="62" y="68" width="132" height="10" rx="5" fill="#334155"/>
+  <rect x="62" y="92" width="132" height="10" rx="5" fill="#334155"/>
+  <rect x="62" y="116" width="98" height="10" rx="5" fill="#334155"/>
+  <rect x="62" y="146" width="80" height="10" rx="5" fill="#16a34a"/>
+  <text x="128" y="196" text-anchor="middle" font-size="26" fill="#0f172a" font-family="sans-serif">條陳</text>
+</svg>

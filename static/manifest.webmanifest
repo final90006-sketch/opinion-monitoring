@@ -1,0 +1,16 @@
+{
+  "name": "條陳機器人",
+  "short_name": "條陳機器人",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#1f2937",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
